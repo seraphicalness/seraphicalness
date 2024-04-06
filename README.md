@@ -2,21 +2,19 @@
 <!--
 **hjgel/hjgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?height=350&text=HyunJun%20World!&desc=Inha%20Technical%20College%20Department%20of%20Computer%20Science%20and%20Engineering&descAlignY=80&type=rect&color=gradient)
+![header](https://capsule-render.vercel.app/api?height=350&text=Nahee%20World!&desc=Inha%20Technical%20College%20Department%20of%20Computer%20Science%20and%20Engineering&descAlignY=80&type=rect&color=gradient)
 
 ------
 
 <!--내용 부분-->
 <h3>💻 BackEnd 💻</h3>
 <div>
-  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
   <!--<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp-->
 </div>
 
 <h3>💻 FrontEnd 💻</h3>
 <div>
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+
 </div>
 
 <br>
@@ -34,8 +32,7 @@
 
 <h3>💻 Studying 💻</h3>
 <div>
- <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
- <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp
+  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
 </div>
 
 <br>
@@ -57,10 +54,10 @@
 <br> 
 
 ------
-
+<!--
 ## Link 
 [<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
-
+-->
 ------
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hjgel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjgel&layout=compact&theme=tokyonight)
