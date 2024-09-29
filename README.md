@@ -1,8 +1,7 @@
 
 <!--
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?height=350&text=Welcome%to&desc=nahee's%Git&Hub&descAlignY=80&type=rect&color=gradient)
-<img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
+<img width="800px" src="https://github.com/seraphicalness/welcome.gif" />
 ------
 
 <!--내용 부분-->
