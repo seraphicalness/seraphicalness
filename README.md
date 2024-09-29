@@ -17,6 +17,7 @@
 <div>
   <!--<img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp-->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
 </div>
 <br>
 
@@ -33,7 +34,6 @@
 
 <h3>💻 Studying 💻</h3>
 <div>
-  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp
 </div>
 
 <br>
