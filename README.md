@@ -1,7 +1,7 @@
 
 <!--
 <!--타이틀 부분-->
-<img width="800px" src="https://github.com/seraphicalness/welcome.gif" />
+<img width="800px" src="https://github.com/seraphicalness/seraphicalness/blob/main/welcome.gif" />
 
 
 <!--내용 부분-->
