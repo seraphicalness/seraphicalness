@@ -3,6 +3,8 @@
 <!--타이틀 부분-->
 <img width="800px" src="https://github.com/seraphicalness/seraphicalness/blob/main/welcome.gif" />
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nahee721)](https://solved.ac/nahee721)
+
 
 <!--내용 부분-->
 <div>
@@ -66,7 +68,7 @@
 ------
 <!--
 ## Link 
-[<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=white" />](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
+[<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
 -->
 ------
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraphicalness&show_icons=true&theme=tokyonight)
