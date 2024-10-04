@@ -59,7 +59,7 @@
 <div>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white">&nbsp
 
 </div>
 
