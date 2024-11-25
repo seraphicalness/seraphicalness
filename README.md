@@ -19,9 +19,7 @@
 <h3>💻 BackEnd 💻</h3>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/DJANGO-%23092E20?style=for-the-badge&logo=Django&logoColor=green&color=white" />&nbsp<br>
-   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 </div>
 <br>
 
