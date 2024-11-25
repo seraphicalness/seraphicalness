@@ -71,6 +71,6 @@
 [<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=white" />](https://flax-heron-d42.notion.site/264aeab9def44404840757ca26124c27?v=715c499aeb0e4c349af539e7aa154dbc&pvs=4)
 -->
 ------
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraphicalness&show_icons=true&theme=ambient_gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seraphicalness&show_icons=true&theme=ambient_gradient) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seraphicalness&layout=compact&theme=ambient_gradient)
 
