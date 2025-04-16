@@ -8,7 +8,7 @@
 
 <!--내용 부분-->
 <div>
-<h3>💻 FrontEnd 💻</h3>
+<h3>FrontEnd </h3>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 </div>
 
-<h3>💻 BackEnd 💻</h3>
+<h3>BackEnd </h3>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
@@ -25,7 +25,7 @@
 </div>
 <br>
 
-<h3>💻 Languege 💻</h3>
+<h3>Languege</h3>
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=orange&color=3670A0">&nbsp
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3>💻 Tools 💻</h3>
+<h3>Tools</h3>
 <div>
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
