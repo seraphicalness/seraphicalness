@@ -4,7 +4,8 @@
 <img width="800px" src="https://github.com/seraphicalness/seraphicalness/blob/main/welcome.gif" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nahee721)](https://solved.ac/nahee721)
-(http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahee721)](https://solved.ac/nahee721)
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nahee721&theme=cold) -->
 
 
