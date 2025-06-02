@@ -4,7 +4,7 @@
 <img width="800px" src="https://github.com/seraphicalness/seraphicalness/blob/main/welcome.gif" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=nahee721)](https://solved.ac/nahee721)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={nahee721}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=nahee721&theme=cold)
 
 
 <!--내용 부분-->
