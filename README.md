@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-
 </div>
 
 <h3>BackEnd </h3>
@@ -30,8 +29,6 @@
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=orange&color=3670A0">&nbsp
-<!--   <img src="https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=Spring&logoColor=green&color=white" />&nbsp -->
-
 </div>
 
 
