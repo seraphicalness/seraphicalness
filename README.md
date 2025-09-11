@@ -7,10 +7,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nahee721)](https://solved.ac/nahee721)
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=nahee721&theme=cold) -->
-
+</div>
 
 <!--내용 부분-->
-
+<div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
