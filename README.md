@@ -1,7 +1,7 @@
 
 
 <!--타이틀 부분-->
-<div> 
+<div align= "center">  
 <img width="800px" src="https://github.com/seraphicalness/seraphicalness/blob/main/welcome.gif" />
 
 [![Solved.ac
