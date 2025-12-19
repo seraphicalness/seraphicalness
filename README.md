@@ -27,11 +27,6 @@
           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
     <br>
 </div>
-
-<!--
-## Link 
-[<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=white" />]
--->
 <div align= "center"><br>
 
  <!--
